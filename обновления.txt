@@ -1,0 +1,15 @@
+newOrder.html
+account-orders.html
+account-card-orders.html
+chat.html
+account-magazine.html
+
+
+CODE-TIP/code-1.html и code-2.html  - штрих коды для печати -
+account-neworder.html -75.7. Личный кабинет поставщика - Карточка заказа
+account-cards.html - Мои карты (16.3) -
+account-history.html - 44.3. История платежей.jpg -
+account-balance.html -44.1. Балланс лицевого счета - пополнение
+account-post.html -Поставщика - Пункт сдачи посылок (75.28) - 2стр
+newmain.html  -75.7. Личный кабинет поставщика - Карточка заказа
+/mobile/index.html - НОВАЯ ВЕРСИЯ (8.2.1) + поиск + новый банер + маобилка
